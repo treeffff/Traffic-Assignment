@@ -1,3 +1,1 @@
-# optimization_programing
-最优化与程序设计课程作业
-更新ing
+# A traffic assignment model based on FrankWofle algorithm using python
